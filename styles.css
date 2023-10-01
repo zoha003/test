@@ -2,7 +2,7 @@
 {
     background-image: url("hh.png");
 }
- .name{
+ #name{
     position: relative;
     border: 0 solid #36586b;
     box-shadow: 5px 5px 10px #36586b;
