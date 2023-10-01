@@ -1,18 +1,4 @@
 
-#bd
-{
-    background-image: url("hh.png");
-}
-.name{
-    position: relative;
-    border: 0 solid #36586b;
-    box-shadow: 5px 5px 10px #36586b;
-    border-radius: 20px;
-    width: 40%;
-    margin: 100px auto;
-    background-color: #8da6b3;
-    z-index:2 ;
-}
 :root {
 	/* COLORS */
 	--white: #e9e9e9;
